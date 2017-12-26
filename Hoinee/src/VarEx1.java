@@ -8,8 +8,8 @@ public class VarEx1 {
 			int year = 2017; // year 이라는 변수를 선언
 			int age = 26;
 			
-			System.out.println(year);
-			System.out.println(age);
+			System.out.println("이번년도는 " + year);
+			System.out.println("내 나이는 " + age);
 			
 			year = age + 2000;
 			age = age + 1;
